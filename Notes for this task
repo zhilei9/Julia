@@ -5,6 +5,8 @@ Feb 14, 2023:
 (1) ?: help
 (2) ;: shell
 (3) using Pkg: a package managing tool
-(4) ]: entering into Pkg
-(5) backspace: going out from Pkg
-(6) (under the mode of pkg) add GR: installing the package of GR
+(4) ]: enter into Pkg
+(5) backspace: go out from Pkg
+(6) (under the mode of pkg) add GR: install the package of GR
+(7) Pkg.installed(): check the packages installed
+(8) Pkg.update: update the packages installed
