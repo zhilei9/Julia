@@ -8,5 +8,6 @@ Feb 14, 2023:
 (4) ]: enter into Pkg
 (5) backspace: go out from Pkg
 (6) (under the mode of pkg) add GR: install the package of GR
-(7) Pkg.installed(): check the packages installed
-(8) Pkg.update: update the packages installed
+(7) (under the mode of pkg) rm GR: uninstall the package of GR
+(8) Pkg.installed(): check the packages installed
+(9) Pkg.update: update the packages installed
