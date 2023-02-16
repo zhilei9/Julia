@@ -16,7 +16,6 @@ Feb 14, 2023:
 (11) typeof(ans): the datatype of the result of last operation
 (12) supertype(a): check the father type of a
 (12) subtypes(a): check the child type of a
-
-For binary term, a byte is equal to 8 bits.
 (13) sizeof(a): check the bytes of a
-      For eample, float 16-half byte, float 32-single, float 64-double precision floating point
+      For binary term, a byte is equal to 8 bits.
+      For eample, float16-16 bits, float32-32 bits, float64-64 bits.
