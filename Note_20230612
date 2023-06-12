@@ -1,0 +1,7 @@
+Julia in Mac:
+
+1. Install Julia and Vscode by following: https://github.com/julia-vscode/julia-vscode
+
+2. Configuration of vscode with julia: Command+Shift+P -> code -> Shell command: Install 'code' command in PATH
+
+3. Programming in vscode: Terminal -> code -> New file -> Julia
